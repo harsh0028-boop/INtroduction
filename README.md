@@ -15,7 +15,6 @@ From learning core concepts in electronics to building software tools and contri
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-(If you'd like, I can expand this section with specific libraries and tools you use, e.g., NumPy, Pandas, Arduino, KiCad.)
 
 ## 📂 Projects & Contributions
 I contribute to projects that bridge hardware and software. Check out my repositories for examples of:
@@ -23,7 +22,6 @@ I contribute to projects that bridge hardware and software. Check out my reposit
 - Small utilities and visualizations
 - Coursework projects from ECE
 
-(If you want, I can create a curated list of 3–5 featured projects with short descriptions and links.)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=harsh0028-boop&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
